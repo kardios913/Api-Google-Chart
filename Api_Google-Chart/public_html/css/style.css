@@ -1,0 +1,49 @@
+.navbar{
+    align-items: center;
+}
+.navbar-brand img {
+    max-height: 35px;
+    align-items: center;
+}
+
+#formulario{
+    border-color: #eee;
+    border: 1px outset ;
+    padding:  5px;
+
+}
+#resulta{
+    border-color: #eee;
+    border: 1px outset;
+}
+
+
+#grafica{
+    padding:  5px;
+}
+#tabla{
+    padding:  5px;
+}
+
+#resultA {
+    font-family: sans-serif;
+    align-items: center;
+}
+
+
+.footer{
+    position:  absolute;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+    max-height: 50px;
+    color: white;
+
+}
+#cb p{
+    text-align:center;
+    font-family: sans-serif;
+    padding: 5px;
+}
+
